@@ -4,5 +4,5 @@ def upper_string(string):
 
 
 def title_string(string):
-    '''Function get string and return title string'''
+    '''Function get string and return title string. Hello! I am Troll!'''
     return string.title()
