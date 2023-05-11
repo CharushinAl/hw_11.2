@@ -1,5 +1,6 @@
 def upper_string(string):
-    '''Function get string and return upper string. Wtf?'''
+    '''Function get string and return upper string. Wtf?
+    '''
     return string.upper()
 
 
